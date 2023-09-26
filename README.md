@@ -14,3 +14,5 @@ cd ciastko-kliker
 
 # otwórz index.html w przeglądarce
 ```
+
+Tak wiem ta strona jest jednym plikiem HTML
