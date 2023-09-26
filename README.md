@@ -11,5 +11,6 @@ Zrobione w HTML
 ```bash
 git clone
 cd ciastko-kliker
-otwórz index.html w przeglądarce
+
+# otwórz index.html w przeglądarce
 ```
